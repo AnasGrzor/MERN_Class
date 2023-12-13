@@ -15,7 +15,7 @@ nodemon: for automatically restarting the server during development
 To start the backend, run the following command:
 
 ➕ Insert in Terminal
-npm run dev
+```npm run dev```
 
 # Frontend
 The frontend is built using React.js. It uses the following dependencies:
@@ -27,13 +27,13 @@ react-router-dom: for client-side routing
 To start the frontend, run the following command:
 
 ➕ Insert in Terminal
-npm run dev
+```npm run dev```
 
 # Development Setup
 Clone the repository.
 Install the dependencies for both the backend and frontend using the following command:
 
 ➕ Insert in Terminal
-npm install
+```npm install```
 Set up the environment variables by creating a .env file in the backend directory and configuring the required variables.
 Start the backend and frontend servers using the commands mentioned above.
